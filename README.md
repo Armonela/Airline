@@ -22,4 +22,7 @@ You can follow this path.
 
 
 
-###**Below I am attaching another image of the homepage**
+
+###**Below I am attaching another image from ny project**
+
+![Screenshot 2024-04-17 213706](https://github.com/Armonela/Airline/assets/150299561/6b5960f6-5aa6-40a0-9fd1-ff1d36ea8118)  
