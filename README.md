@@ -26,3 +26,8 @@ You can follow this path.
 ###**Below I am attaching another image from ny project**
 
 ![Screenshot 2024-04-17 213706](https://github.com/Armonela/Airline/assets/150299561/6b5960f6-5aa6-40a0-9fd1-ff1d36ea8118)  
+
+<div>
+<img src="https://github.com/Armonela/Airline/assets/150299561/2835997c-5b19-4f84-9f36-2839b0d2361f" alt="Foto1" width="700" height="auto" style="display:inline-block;"> 
+
+</div>
