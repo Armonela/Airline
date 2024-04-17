@@ -25,9 +25,23 @@ You can follow this path.
 
 ###**Below I am attaching another image from ny project**
 
-![Screenshot 2024-04-17 213706](https://github.com/Armonela/Airline/assets/150299561/6b5960f6-5aa6-40a0-9fd1-ff1d36ea8118)  
+
+<img src="https://github.com/Armonela/Airline/assets/150299561/2835997c-5b19-4f84-9f36-2839b0d2361f" alt="homepage" width="1000" height="auto"> 
+
 
 <div>
-<img src="https://github.com/Armonela/Airline/assets/150299561/2835997c-5b19-4f84-9f36-2839b0d2361f" alt="Foto1" width="700" height="auto" style="display:inline-block;"> 
+<img src="https://github.com/Armonela/Airline/assets/150299561/6b5960f6-5aa6-40a0-9fd1-ff1d36ea8118" alt="Foto1" width="500" height="400" style="display:inline-block;"> 
+<img src="https://github.com/Armonela/Airline/assets/150299561/d82da831-b92f-4bc6-bf7c-edeb2f68a6a1" alt="Foto2" width="500" height="400" style="display:inline-block;">
+</div>
 
+
+<div>
+  <img src="https://github.com/Armonela/Airline/assets/150299561/8e8f9135-3ad3-46ab-92df-93a3a0f01997" alt="DESCRIPTION1"  width="500" height="400" style="display:inline-block;">
+  <img src="https://github.com/Armonela/Airline/assets/150299561/3be3ad33-3b34-4b9b-b0d5-6224bc4fa45b" alt="DESCRIPTION2"  width="500" height="400" style="display:inline-block;">
+</div>
+
+
+<div>
+  <img src="https://github.com/Armonela/Airline/assets/150299561/e9953524-2cc6-4292-90ce-51f6048531c2" alt="DESCRIPTION1"  width="500" height="400" style="display:inline-block;">
+  <img src="https://github.com/Armonela/Airline/assets/150299561/a5608e11-e437-4079-add7-ab5ceff8a08a" alt="DESCRIPTION2"  width="500" height="400" style="display:inline-block;">
 </div>
